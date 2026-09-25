@@ -1,0 +1,51 @@
+https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_800,h_1200,dpr_auto/v1773840413/portrait-image_msf2dv.jpg
+
+https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_800,h_1200,dpr_auto,e_improve,e_sharpen/v1773840412/lifestyle-portrait-1_l8wlah.png
+
+https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_800,h_1200,dpr_auto/v1773840445/lifestyle-portrait.2_kdymjl.png
+
+https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842972/nasaSpaceAppsImg_faevz6.png
+
+
+const links = [
+        {
+            icon: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:best,w_150,fl_preserve_transparency/nasa_space_apps_icon_zyxehm.png',
+            hoverImg: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842972/nasaSpaceAppsImg_faevz6.png',
+            name: "NASA SPACE APPS",
+            url: "https://drive.google.com/file/d/1NT4hw4Qc_weCxcfI5l4AvzF4f9ihbzXr/view?usp=drive_link",
+            badge: "' 2 4",
+            class: "pb-1.5 pt-8"
+        },
+        {
+            icon: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:best,w_150,fl_preserve_transparency/mumbaiHacks-logo_eh6szt.png',
+            hoverImg: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842972/mumbaiHacksImg_ria3yp.png',
+            name: "T.E.A.M GenAI",
+            url: "https://drive.google.com/drive/u/4/folders/12o2lfBuJzrbloB2LYjV9SP-QmZ29xYaW",
+            badge: "' 2 4",
+            class: "pb-1.5 pt-8"
+        },
+        {
+            icon: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:best,w_150,fl_preserve_transparency/sunacks_logo_be287l.png',
+            hoverImg: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842972/sunhacksImg_rhrcqv.png',
+            name: "SUNHACKS",
+            url: "https://drive.google.com/drive/u/4/folders/12o2lfBuJzrbloB2LYjV9SP-QmZ29xYaW",
+            badge: "' 2 5",
+            class: "pb-1.5 mb-11 pt-8"
+        },
+        {
+            icon: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:best,w_150,fl_preserve_transparency/highest_scorer_icon_ewiv4c.png',
+            hoverImg: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842977/scorrerImg_xnty8u.png',
+            name: "Highest Scorer Award",
+            url: "https://drive.google.com/drive/u/4/folders/1ASPQoiquljxZ7hYGYj4RGKKMfWLTqNDr",
+            badge: "' 2 3",
+            class: "pb-1.5 pt-20"
+        },
+        {
+            icon: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:best,w_150,fl_preserve_transparency/best_sportsmen_logo_imcsaf.png',
+            hoverImg: 'https://res.cloudinary.com/djd1tenw9/image/upload/f_auto,q_auto:good,c_fit,w_1200,dpr_auto/v1773842977/scorrerImg_xnty8u.png',
+            name: "Best sportsmen oty",
+            url: "https://drive.google.com/drive/u/4/folders/1ASPQoiquljxZ7hYGYj4RGKKMfWLTqNDr",
+            badge: "' 2 3",
+            class: "pb-1.5 pt-8"
+        }
+    ];
